@@ -1,0 +1,12 @@
+{
+  "name": "thao-aventure",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Thao Aventure — La Grande Aventure du Français (CE2)",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "build": "node tools/build.js",
+    "serve": "node tools/serve.js"
+  }
+}
